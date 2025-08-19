@@ -8,4 +8,4 @@ Site moderno e compacto para hamburguerias.
 ✅ Apresentação direta e moderna
 
 ### Confira a publicação deste projeto no LinkedIn:
-https://www.linkedin.com/posts/viniciusmat0s_desenvolvimentoweb-frontend-html-activity-7360783121694228481-MXKK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD_IPGwBmdgH_w0-ErC1szE1HJjWd7E146M
+https://www.linkedin.com/posts/viniciusmat0s_desenvolvimentoweb-frontend-html-activity-7363718800032116736-iJL9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD_IPGwBmdgH_w0-ErC1szE1HJjWd7E146M
